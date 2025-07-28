@@ -6,7 +6,7 @@ The purpose of this repository is to provide a convenient way to access and use 
 
 ## Releases
 
-Please see the Releases section of this repository for the latest compiled binaries. Each release includes the necessary files to run the Wearable Sensing LSL clients on a Windows machine.
+Please see the Releases section of this repository for the latest compiled binaries. Each release includes the necessary files to run the Wearable Sensing LSL clients on a Windows machine. You will need to download 7-Zip or a similar tool to extract the files from the downloaded archive. See 7-Zip download [here](https://www.7-zip.org/download.html).
 
 ## Documentation
 
